@@ -175,6 +175,11 @@ header {
   color: white;
 }
 
+#navbar nav a:hover {
+  color: white;
+  
+}
+
 /*////////// LOGO //////////*/
 
 
