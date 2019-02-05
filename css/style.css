@@ -52,7 +52,7 @@ figcaption {
   background: -o-linear-gradient(top, #efefef 0%, #ffffff 24%, #ffffff 68%, #dddddd 100%);
   background: -ms-linear-gradient(top, #efefef 0%, #ffffff 24%, #ffffff 68%, #dddddd 100%);
   background: linear-gradient(to bottom, #efefef 0%, #ffffff 24%, #ffffff 68%, #dddddd 100%);
-  filter: 
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#efefef', endColorstr='#dddddd', GradientType=0 );
 }
 
 .medium-fade {
