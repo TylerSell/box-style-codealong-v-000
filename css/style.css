@@ -49,7 +49,10 @@ figcaption {
   background: -moz-linear-gradient(top, #efefef 0%, #ffffff 24%, #ffffff 68%, #dddddd 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #efefef), color-stop(24% #ffffff), color-stop(68% #ffffff), color-stop(100% #dddddd));
   background: -webkit-linear-gradient(top, #efefef 0%, #ffffff 24%, #ffffff 68%, #dddddd 100%);
-  background: -o-linear-gradient()
+  background: -o-linear-gradient(top, #efefef 0%, #ffffff 24%, #ffffff 68%, #dddddd 100%);
+  background: -ms-linear-gradient(top, #efefef 0%, #ffffff 24%, #ffffff 68%, #dddddd 100%);
+  background: linear-gradient(to bottom, #efefef 0%, #ffffff 24%, #ffffff 68%, #dddddd 100%);
+  filter: 
 }
 
 .medium-fade {
